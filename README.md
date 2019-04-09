@@ -4,5 +4,12 @@
 
 
 <p align="center">
-Concepts to become an advanced React developer.
+<b>Concepts to become an advanced React developer.</b>
+  
+  <br/>
+  React is a JavaScript library created by Facebook. React is a User Interface (UI) library for building UI components.
 </p>
+
+### React for beginners:
+
+- [Introduction to React](https://jaxenter.com/introduction-react-147054.html) : Basic concepts about react development, components, states, single-page applications and so much more.
