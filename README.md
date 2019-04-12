@@ -15,4 +15,7 @@
 
 #### React Concepts
 - [( React Components, Elements, and Instances )](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca):  *The differences between these related terms.*
-- [( Building Your Own React Clone in Five Easy Steps )](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps): Steps to create your Own react library.
+- **How to write your own Virtual DOM**
+  - [Representing our DOM Tree](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+  - [Props & Events](https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76)
+- [( Building Your Own React Clone in Five Easy Steps )](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps): *Steps to create your Own react library.*
