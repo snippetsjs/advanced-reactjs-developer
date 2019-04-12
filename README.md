@@ -10,6 +10,8 @@
   React is a JavaScript library created by Facebook. React is a User Interface (UI) library for building UI components.
 </p>
 
-### React for beginners:
+### Advanced Topics
 
-- [Introduction to React](https://jaxenter.com/introduction-react-147054.html) : Basic concepts about react development, components, states, single-page applications and so much more.
+
+#### React Concepts:
+- [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) The differences between these related terms.
