@@ -22,5 +22,5 @@
 
 
 #### JavaScript
-- [(What is the Event Loop?)](https://nodejs.org/es/docs/guides/event-loop-timers-and-nexttick/) *The event loop is what allows Node.js to perform non-blocking I/O operations*
-- [(Advanced Promises)](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2)
+- [(What is the Event Loop?)](https://nodejs.org/es/docs/guides/event-loop-timers-and-nexttick/) *The event loop is what allows Node.js to perform non-blocking I/O operations.*
+- [(Advanced Promises)](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2) *Promises In-depth.*
