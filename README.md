@@ -24,3 +24,4 @@
 #### JavaScript
 - [(What is the Event Loop?)](https://nodejs.org/es/docs/guides/event-loop-timers-and-nexttick/) *The event loop is what allows Node.js to perform non-blocking I/O operations.*
 - [(Advanced Promises)](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2) *Promises In-depth.*
+- [(Document Object Model - DOM )](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) *The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.*
