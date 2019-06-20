@@ -20,6 +20,7 @@
   - [Props & Events](https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76)
 - [( Building Your Own React Clone in Five Easy Steps )](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps) *Steps to create your Own react library.*
 - [Use code splitting - Suspense & Lazy](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
+- [These are the concepts you should know in React.js](https://www.freecodecamp.org/news/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030/)
 
 
 #### JavaScript
