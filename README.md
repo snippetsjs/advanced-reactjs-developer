@@ -19,6 +19,7 @@
   - [Representing our DOM Tree](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
   - [Props & Events](https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76)
 - [( Building Your Own React Clone in Five Easy Steps )](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps) *Steps to create your Own react library.*
+- [Use code splitting - Suspense & Lazy](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
 
 
 #### JavaScript
