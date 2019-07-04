@@ -22,6 +22,7 @@
 - [Use code splitting - Suspense & Lazy](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
 - [These are the concepts you should know in React.js](https://www.freecodecamp.org/news/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030/)
 - [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+- [35+ Basic & Advanced ReactJS Interview Questions for 2019](https://tms-outsource.com/blog/posts/react-interview-questions)
 
 
 #### JavaScript
